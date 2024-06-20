@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 20 13:30:07 CEST 2024
+git-0.0.1-SNAPSHOT.jar>=
+git-0.0.1-SNAPSHOT.pom>=
